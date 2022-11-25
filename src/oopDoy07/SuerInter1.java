@@ -1,4 +1,4 @@
-package oopDoy0701;
+package oopDoy07;
 
 public interface SuerInter1 {
     void  m11();

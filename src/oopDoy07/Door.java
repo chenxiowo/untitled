@@ -1,4 +1,4 @@
-package oopDoy0701;
+package oopDoy07;
 
 public abstract class Door {
     public abstract void open();

@@ -1,4 +1,4 @@
-package oopDoy0701;
+package oopDoy07;
 
 public interface Alarm {
 //    接口里的全局变量都是默认被public static final修饰的静态变量
