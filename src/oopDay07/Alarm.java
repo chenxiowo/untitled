@@ -1,4 +1,4 @@
-package oopDoy07;
+package oopDay07;
 
 public interface Alarm {
 //    接口里的全局变量都是默认被public static final修饰的静态变量

@@ -57,8 +57,11 @@ public class day0101 {
         char c1='a';
         char c2='4';
         char c3='我';
-        char c4='\u6211';
-        System.out.println("c4:"+c4);
+        char c4='\u738b';
+        char c5='\u6893';
+        char c6='\u65ed';
+
+        System.out.println("c4:"+c4+c5+c6);
 
 //        4.4布尔类型 boolean 值只有true和false
         boolean boo1=true;

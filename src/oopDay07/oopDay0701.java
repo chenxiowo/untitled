@@ -1,4 +1,4 @@
-package oopDoy07;
+package oopDay07;
 
 public class oopDay0701 {
     public static void main(String[] args) {

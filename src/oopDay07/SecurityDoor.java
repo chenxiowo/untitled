@@ -1,4 +1,4 @@
-package oopDoy07;
+package oopDay07;
 
 public class SecurityDoor extends Door implements Alarm{
 
